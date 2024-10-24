@@ -1,6 +1,6 @@
 
 
-# Hi 👋, I'm {username} 
+# Hi 👋, I'm vujh
 
 I'm passionate about Open Source and love contributing to the community. I enjoy working with various technologies and always seek to improve my skills.
 
@@ -9,13 +9,13 @@ I'm passionate about Open Source and love contributing to the community. I enjoy
 
 Here are some of my public repositories on GitHub:
 
-[![My GitHub Projects](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=radical)](https://github.com/{username})
+[![My GitHub Projects](https://github-readme-stats.vercel.app/api?username=ChristopherMuellner&show_icons=true&theme=radical)](https://github.com/ChristopherMuellner)
 
 ---
 
 ## ⏳ Weekly Coding Time:
 
-[![My Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username={username}&theme=radical)](https://wakatime.com/@{username})
+[![My Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=ChristopherMuellner&theme=radical)](https://wakatime.com/@ChristopherMuellner)
 
 
 # 💫 About Me:
