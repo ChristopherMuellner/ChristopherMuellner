@@ -1,5 +1,7 @@
 # 💫 About Me:
-👯 looking to coloberate with Developers<br>🏫 Ing. Student<br>💻 Developer
+👨‍💻 looking to collaborate with Developers on innovative projects  
+🎓 Ing. Student  
+💻 Passionate Developer  
 
 
 ## 🌐 Socials:
