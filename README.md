@@ -16,7 +16,7 @@ I'm passionate about Open Source and love contributing to the community. I enjoy
 [![My GitHub Projects](https://github-readme-stats.vercel.app/api?username={DeinGitHubUsername}&show_icons=true&theme=radical&count_private=false)](https://github.com/{DeinGitHubUsername})
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lxenty) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/censatu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@censatu) 
 
 # 💻 Tech Stack:
