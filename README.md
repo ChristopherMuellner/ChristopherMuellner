@@ -5,6 +5,12 @@
 I'm passionate about Open Source and love contributing to the community. I enjoy working with various technologies and always seek to improve my skills.
 
 
+# 💫 About Me:
+👨‍💻 looking to collaborate with Developers on innovative projects  
+🎓 Ing. Student  
+💻 Passionate Developer  
+
+
 ## 🛠 My Open Source Projects:
 
 [![My GitHub Projects](https://github-readme-stats.vercel.app/api?username=ChristopherMuellner&show_icons=true&theme=radical)](https://github.com/ChristopherMuellner)
@@ -12,13 +18,7 @@ I'm passionate about Open Source and love contributing to the community. I enjoy
 
 ## ⏳ Weekly Coding Time:
 
-[![My Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=ChristopherMuellner&theme=radical)](https://wakatime.com/@ChristopherMuellner)
-
-
-# 💫 About Me:
-👨‍💻 looking to collaborate with Developers on innovative projects  
-🎓 Ing. Student  
-💻 Passionate Developer  
+[![My Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=ChristopherMuellner&theme=radical)](https://wakatime.com/ChristopherMuellner)
 
 
 ## 🌐 Socials:
