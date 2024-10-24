@@ -13,7 +13,7 @@ I'm passionate about Open Source and love contributing to the community. I enjoy
 
 # 🛠 My Open Source Projects:
 
-[![My GitHub Projects](https://github-readme-stats.vercel.app/api?username={DeinGitHubUsername}&show_icons=true&theme=radical&count_private=false)](https://github.com/{DeinGitHubUsername})
+[![My GitHub Projects](https://github-readme-stats.vercel.app/api?username=ChristopherMuellner&show_icons=true&theme=radical&count_private=false)](https://github.com/ChristopherMuellner)
 
 
 # 🌐 Socials:
