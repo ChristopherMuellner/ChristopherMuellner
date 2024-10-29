@@ -13,11 +13,11 @@ I'm passionate about Open Source and love contributing to the community. I enjoy
 
 # 📊 My GitHub Stats
 
-<a href="http://www.github.com/ChristopherMuellner"><img src="https://github-readme-stats.vercel.app/api?username=-&show_icons=true&hide=stars,contribs&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="-'s GitHub stats" /></a>
+<a href="http://www.github.com/ChristopherMuellner"><img src="https://github-readme-stats.vercel.app/api?username=ChristopherMuellner&show_icons=true&hide=stars,contribs&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="vujh's GitHub stats" /></a>
 
-<a href="http://www.github.com/-"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=-&bg_color=1c1917&color=ffffff&line=64748b&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ChristopherMuellner"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChristopherMuellner&bg_color=1c1917&color=ffffff&line=64748b&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ChristopherMuellner" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=-&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ChristopherMuellner" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherMuellner&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 # 🛠 Top/Open Source Projects
 
